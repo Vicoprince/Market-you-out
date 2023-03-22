@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    Padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins';
+}
+
+body {
+    background-color: rgb(2, 11, 33); 
+    color: rgb(226, 226, 226);
+}
